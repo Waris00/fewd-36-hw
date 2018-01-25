@@ -1,0 +1,28 @@
+
+body {
+	font-size: 18px;
+	background: #F6F6F6;
+	margin: 0;
+	line-height: 1.5;
+	font-family: sans-serif;
+}
+
+p {
+  font-family: Georgia,Times
+  }
+
+
+article {
+  border-bottom: 5px solid #222222;
+  padding: 0 100px;}
+
+  th {
+  background: #222;
+  color: white;
+  padding: 10px;
+}
+
+td {
+  background: #eee;
+  padding: 10px;
+}
